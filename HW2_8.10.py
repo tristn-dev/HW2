@@ -1,4 +1,7 @@
-# Kelvin Sia 2122601
+'''
+Tristan Deveyra
+2057603
+'''
 
 
 word = str(input())
