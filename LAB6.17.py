@@ -1,3 +1,7 @@
+'''
+Tristan Deveyra
+2057603
+'''
 password = input()
 password = password.replace('i','!')
 password = password.replace('a','@')
